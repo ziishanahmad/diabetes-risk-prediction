@@ -1,4 +1,3 @@
-Here's a detailed README file that explains the project and provides clear instructions for others to understand and use your code. This README is tailored to be informative and helpful for public visibility.
 
 ```markdown
 # Diabetes Risk Prediction
