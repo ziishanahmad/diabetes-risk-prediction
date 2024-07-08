@@ -1,5 +1,4 @@
 
-```markdown
 # Diabetes Risk Prediction
 
 ## Overview
@@ -136,4 +135,4 @@ For any questions or feedback, please contact:
 - **Name:** Your Name
 - **Email:** ziishanahmad@gmail.com
 - **GitHub:** [ziishanahmad](https://github.com/ziishanahmad)
-```
+
